@@ -1,0 +1,18 @@
+{
+  "name": "custom-route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "custom-route.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-apigatewaymanagementapi": "^3.666.0",
+    "@aws-sdk/client-dynamodb": "^3.666.0",
+    "@aws-sdk/lib-dynamodb": "^3.666.0"
+  }
+}
